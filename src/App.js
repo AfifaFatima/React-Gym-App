@@ -5,6 +5,7 @@ import Contact from './pages/Contact';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Why from './pages/Why';
 import Trainer from './pages/Trainer';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
